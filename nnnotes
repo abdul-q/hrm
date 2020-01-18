@@ -1,0 +1,3 @@
+The project configuration altered;
+- Using Nginx instead of apache
+- Using ldap for authentication
